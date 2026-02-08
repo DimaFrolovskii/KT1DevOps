@@ -11,5 +11,3 @@ Developer: Dima Frolovskii
 
 ### Project Scheme
 ![Network Graph](./network-screen.png)
-
-# IM AM A MASTER
