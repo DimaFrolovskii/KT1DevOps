@@ -1,5 +1,5 @@
 # My DevOps Project
-![Logo](./logo.png)
+![Logo](ЫЫ)
 
 ### About
 This is a training project for learning GitFlow and GitHub tools.
@@ -12,4 +12,4 @@ Developer: Dima Frolovskii
 ### Project Scheme
 ![Network Graph](./network-screen.png)
 
-## Shadow Fight 2
+## писяпопа
